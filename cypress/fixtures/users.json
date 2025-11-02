@@ -1,0 +1,17 @@
+{
+  "usuarioValido": {
+    "email": "qatester3@teste.com",
+    "senha": "senhasQaTester@123963741*",
+    "nome": "QA Tester"
+  },
+  "usuarioInvalido": {
+    "email": "invalid@mail.com",
+    "senha": "654321"
+  },
+  "dadosConta": {
+    "dia": "21",
+    "mes": "December",
+    "ano": "1986",
+    "pais": "Canada"
+  }
+}

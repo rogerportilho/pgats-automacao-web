@@ -1,0 +1,51 @@
+{
+  "dadosPadrao": {
+    "dia": "21",
+    "mes": "December", 
+    "ano": "1986",
+    
+    "nome": "Teste",
+    "sobrenome": "Automacao",
+    "senha": "123456",
+    "empresa": "Empresa de Teste",
+    "endereco1": "Rua dos Bobos, 0",
+    "endereco2": "Apto 999",
+    "primeiroNome": "Teste",
+    "ultimoNome": "Automacao",
+    "pais": "Canada",
+    "telefone": "999999999",
+    "email": "QaTeste2025@teste.com",
+    "cidade": "Washington",
+    "estado": "Distrito Federal",
+    "cep": "22222-000",
+    "arquivoTeste": "cypress/fixtures/imagem-teste.png",
+    "produtoPesquisa": "Blue Top",
+    "produto1": "T-Shirt",
+    "produto2": "Jeans",
+    "nomeCartao": "Fulano de Tal",
+    "numeroCartao": "4111111111111111",
+    "cvcCartao": "123",
+    "mesVencimento": "12",
+    "anoVencimento": "2025",
+    "comentarioPedido": "Pedido realizado através de teste automatizado"
+  },
+  
+  "textos": {
+    "tituloPagina": "Automation Exercise",
+    "tituloNewUserSignup": "New User Signup!",
+    "tituloLogin": "Login to your account",
+    "tituloEnterAccountInformation": "ENTER ACCOUNT INFORMATION",
+    "contaCriada": "ACCOUNT CREATED!",
+    "contaDeletada": "ACCOUNT DELETED!",
+    "emailExiste": "Email Address already exist!",
+    "loginIncorreto": "Your email or password is incorrect!",
+    "tituloContactUs": "Contact us",
+    "tituloGetInTouch": "GET IN TOUCH",
+    "assuntoContactUs": "Teste Automação",
+    "mensagemContactUs": "Esta é uma mensagem de teste enviada durante a automação de testes.",
+    "mensagemSucessoContactUs": "Success! Your details have been submitted successfully.",
+    "tituloAllProducts": "ALL PRODUCTS",
+    "tituloSubscription": "Subscription",
+    "comentarioSobreProduto": "Estou muito satisfeito com este produto. Excelente qualidade e desempenho."
+  }
+}
